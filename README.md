@@ -1,2 +1,2 @@
-# Metin-Ters-evirici
+# Metin-Ters-Cevirici
 Girilen metni ters çevirme uygulaması
